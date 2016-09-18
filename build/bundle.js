@@ -47,8 +47,8 @@
 	/*
 	* @Author: mover
 	* @Date:   2016-09-16 23:27:51
-	* @Last Modified by:   mover
-	* @Last Modified time: 2016-09-17 21:15:05
+	* @Last Modified by:   dingxizheng
+	* @Last Modified time: 2016-09-17 21:19:52
 	*/
 
 	'use strict';
@@ -98,7 +98,7 @@
 		id: 'action2',
 		name: "Translate",
 		type: "transform",
-		action: "translateX(-40)",
+		action: "translateX(-40px)",
 		applied: false
 	}, {
 		id: 'action3',
